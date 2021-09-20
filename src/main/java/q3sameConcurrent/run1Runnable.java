@@ -1,4 +1,4 @@
-package sameConcurrent;
+package q3sameConcurrent;
 
 class RunnableSensors implements Runnable {
    private Thread t;

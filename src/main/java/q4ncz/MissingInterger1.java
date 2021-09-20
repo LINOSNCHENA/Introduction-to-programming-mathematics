@@ -1,4 +1,4 @@
-package ncz;
+package q4ncz;
 //  Hunderd Percentage Result
 import java.util.HashSet;
 import java.util.Set;

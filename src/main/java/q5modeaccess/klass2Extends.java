@@ -1,4 +1,4 @@
-package modeaccess;
+package q5modeaccess;
 
 public class klass2Extends extends klass1Abstract {
 

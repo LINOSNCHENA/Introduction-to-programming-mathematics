@@ -1,4 +1,4 @@
-package sameConcurrent;
+package q3sameConcurrent;
 
 import java.util.concurrent.*;
 

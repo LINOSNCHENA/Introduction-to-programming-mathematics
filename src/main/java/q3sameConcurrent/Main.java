@@ -1,10 +1,10 @@
-package sameConcurrent;
+package q3sameConcurrent;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
-import sameConcurrent.pembaConsumer.ConsumerPoison;
-import sameConcurrent.pembaConsumer.ProducerPoison;
+import q3sameConcurrent.pembaConsumer.ConsumerPoison;
+import q3sameConcurrent.pembaConsumer.ProducerPoison;
 
 // import sameconcurrent.pembaConsumer.ConsumerPoison;
 // import sameconcurrent.pembaConsumer.ProducerPoison;

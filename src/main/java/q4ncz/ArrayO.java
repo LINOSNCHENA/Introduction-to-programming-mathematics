@@ -1,4 +1,4 @@
-package ncz;
+package q4ncz;
 
 import java.util.Arrays;
 

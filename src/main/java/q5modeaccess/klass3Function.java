@@ -1,4 +1,4 @@
-package modeaccess;
+package q5modeaccess;
 
 public class klass3Function {
     int addTwoNumbers(int a, int b) {

@@ -1,4 +1,4 @@
-package exams;
+package q2exams;
 
 public class Solution2 {
     // you can write to stdout for debugging purposes, e.g.

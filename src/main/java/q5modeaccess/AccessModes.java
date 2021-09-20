@@ -1,4 +1,4 @@
-package modeaccess;
+package q5modeaccess;
 
 public class AccessModes {
    public static void main(String args[]) {

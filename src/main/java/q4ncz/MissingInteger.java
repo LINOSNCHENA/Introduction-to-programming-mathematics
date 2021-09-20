@@ -1,4 +1,4 @@
-package ncz;
+package q4ncz;
 // 1000 Percentaage
 public class MissingInteger {
 

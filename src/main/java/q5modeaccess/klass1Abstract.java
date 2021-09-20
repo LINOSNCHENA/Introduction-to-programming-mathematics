@@ -1,4 +1,4 @@
-package modeaccess;
+package q5modeaccess;
 
 public abstract class klass1Abstract {
 

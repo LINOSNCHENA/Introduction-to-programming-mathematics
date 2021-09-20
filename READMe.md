@@ -29,3 +29,12 @@ The application is a collection of some of the various important aspect in Java 
 ![display#8 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(8).png) 
 ![Hacker#09 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(9).png) 
 ![Hacker#10 ](https://github.com/LINOSNCHENA/JAVA-TestBed-for-seven-simple-apps/blob/master/uXviews/page%20(8).png) 
+
+## Version - Week #11
+
+```
+    07/09/2021
+```
+
+# END
+

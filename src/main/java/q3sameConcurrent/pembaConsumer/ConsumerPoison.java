@@ -1,4 +1,4 @@
-package sameConcurrent.pembaConsumer;
+package q3sameConcurrent.pembaConsumer;
 
 import java.util.concurrent.BlockingQueue;
 
